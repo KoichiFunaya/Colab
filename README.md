@@ -1,2 +1,2 @@
-# colab
-scripts that also runs in Google Colab environment
+# Colab
+Scripts that also run at Google Colab environment
